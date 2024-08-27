@@ -2,17 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**John Jefferson L. Doyon**
 
 [LinkedIn Profile](https://www.linkedin.com/in/johnjefferson11/).
 
-There should be whitespace between paragraphs.
+I like to help companies reduce cybersecurity risks | Independent Advisor at Microsoft Community
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# About
+
+I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
 ## Header 2
 
