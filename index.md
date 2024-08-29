@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**John Jefferson L. Doyon**
+**Name:** **John Jefferson L. Doyon**
 
 [LinkedIn Profile](https://www.linkedin.com/in/johnjefferson11/).
 
