@@ -16,9 +16,8 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 ## Project
 
-### Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
 
-Cysec portfolio. 
+### Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
 
 I created my own Security Operations Center (SOC) by deploying my own Security Information and Event Management (SIEM) that monitors and generates alerts for my device. I set up a Threat Intelligence (TI) feed that sends my SIEM information of a Indicator of Compromise (IoC) using Microsoft Azure. 
 
@@ -32,7 +31,7 @@ To create Data Collection Rule Association and or simply add an event rule I cli
 
 Next I created a rule that checks for successful logins via RDP that is not a system accounts logins. I click “Logs” in the left pane, and clear queries and type:
 ```python
-SecurityEvents where Activity contains "success" and Account !contains "system".
+SecurityEvents where Activity contains "success" and Account !contains "system"
 ```
 
 After that I set the Time range to “Last 3 days” then click “Run” to check if there is any system showing. Then click “New alert rule” and click “Create Microsoft Sentinel alert”. I name it Successful Local Sign Ins, set the Severity to Medium and click “Next: Set rule logic”. In Query scheduling I set it to run queries every 5 minutes and lookup data from the last 5 minutes, and click through till I get to the Review + create section and click “Save”. 
