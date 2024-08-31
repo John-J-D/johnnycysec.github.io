@@ -32,7 +32,7 @@ To create Data Collection Rule Association and or simply add an event rule I cli
 
 Next I created a rule that checks for successful logins via RDP that is not a system accounts logins. I click “Logs” in the left pane, and clear queries and type:
 ```python
-SecurityEvents where Activity contains “success” and Account !contains “system”.
+SecurityEvents where Activity contains "success" and Account !contains "system".
 ```
 
 After that I set the Time range to “Last 3 days” then click “Run” to check if there is any system showing. Then click “New alert rule” and click “Create Microsoft Sentinel alert”. I name it Successful Local Sign Ins, set the Severity to Medium and click “Next: Set rule logic”. In Query scheduling I set it to run queries every 5 minutes and lookup data from the last 5 minutes, and click through till I get to the Review + create section and click “Save”. 
@@ -46,30 +46,3 @@ Then I click “Incidents” from the left pane to view if there is any incident
 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
