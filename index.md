@@ -19,7 +19,7 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 * [Drafting a professional statement](#Drafting-a-professional-statement)
 * [Conducting a security audit](#Conducting-a-security-audit)
-* [Usage](#usage)
+* [Analyzing network structure and security](#Analyzing-network-structure-and-security)
 * [Contributing](#contributing)
   * [License](#license)
 
@@ -28,7 +28,11 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
 
-<h2 id="Conducting-a-security-audit">Conducting a security audit
+<h2 id="Conducting-a-security-audit">Conducting a security audit</h2>
+<i>To be continued</i>
+
+
+<h2 id="Analyzing-network-structure-and-security">Analyzing network structure and security</h2>
 <i>To be continued</i>
 
 
