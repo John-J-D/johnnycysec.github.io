@@ -16,7 +16,6 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 ## Portfolio projects
 **Google Cybersecurity Professional Certificate:**
-
 * [Drafting a professional statement](#Drafting-a-professional-statement)
 * [Conducting a security audit](#Conducting-a-security-audit)
 * [Analyzing network structure and security](#Analyzing-network-structure-and-security)
@@ -26,13 +25,11 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 * [Documenting incidents with an incident handler’s journal](#Documenting-incidents-with-an-incident-handler’s-journal)
 * [Importing and parsing a text file in a security-related scenario](#Importing-and-parsing-a-text-file-in-a-security'-'related-scenario)
 * [Creating or revising a resume](#Creating-or-revising-a-resume)
-
 **Individual projects**
-
 * [Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules](#Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules)
+  
 
-
-## Contents
+## Contents:
 
 <h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
