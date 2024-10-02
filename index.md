@@ -17,17 +17,22 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 ## Portfolio projects
 **Table of Contents:**
 
-* [Drafting a professional statement](#drafting-a-professional-statement)
-* [Features](#features)
+* [Drafting a professional statement](#Drafting-a-professional-statement)
+* [Conducting a security audit](#Conducting-a-security-audit)
 * [Usage](#usage)
 * [Contributing](#contributing)
   * [License](#license)
 
 
-<h2 id="drafting-a-professional-statement">Drafting a professional statement</h2>
+<h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
-### Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
+
+<h2 id="Conducting-a-security-audit">Conducting a security audit
+
+
+
+## Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
 
 I created my own Security Operations Center (SOC) by deploying my own Security Information and Event Management (SIEM) that monitors and generates alerts for my device. I set up a Threat Intelligence (TI) feed that sends my SIEM information of a Indicator of Compromise (IoC) using Microsoft Azure. 
 
