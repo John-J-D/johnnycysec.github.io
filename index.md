@@ -29,7 +29,7 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 
 <h2 id="Conducting-a-security-audit">Conducting a security audit
-
+<i>To be continued</i>
 
 
 ## Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
