@@ -67,7 +67,7 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 <i>To be continued</i>
 
 
-<h2 id="Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules">Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules</i>
+<h2 id="Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules">Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules</h2>
 
 I created my own Security Operations Center (SOC) by deploying my own Security Information and Event Management (SIEM) that monitors and generates alerts for my device. I set up a Threat Intelligence (TI) feed that sends my SIEM information of a Indicator of Compromise (IoC) using Microsoft Azure. 
 
