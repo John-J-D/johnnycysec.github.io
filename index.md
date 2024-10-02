@@ -31,6 +31,9 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 * [Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules](#Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules)
 
+
+## Contents
+
 <h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
@@ -92,45 +95,8 @@ Then I click “Incidents” from the left pane to view if there is any incident
 
 
 
-# My Project
-
-## Introduction
-
-This is a brief introduction to my project.
-
-## Features
-
-<h2 id="features">Features</h2>
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-## Usage
-
-<h2 id="usage">Usage</h2>
-
-1. **Step 1:** Do this
-2. **Step 2:** Do that
-
-## Contributing
-
-<h2 id="contributing">Contributing</h2>
-
-If you want to contribute to this project, please follow these guidelines.
-
-### License
-
-<h3 id="license">License</h3>
-
-This project is licensed under the MIT License.
-
-**Table of Contents:**
-
-* [Introduction](#introduction)
-* [Features](#features)
-* [Usage](#usage)
-* [Contributing](#contributing)
-  * [License](#license)
-
-
+<br>
+<i>To be continued</i>
+<br>
+<br>
+<h3>To God be the glory</h3>
