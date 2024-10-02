@@ -15,14 +15,21 @@ I like to help companies reduce cybersecurity risks --- Independent Advisor at M
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
 ## Portfolio projects
-**Table of Contents:**
+**Google Cybersecurity Professional Certificate:**
 
 * [Drafting a professional statement](#Drafting-a-professional-statement)
 * [Conducting a security audit](#Conducting-a-security-audit)
 * [Analyzing network structure and security](#Analyzing-network-structure-and-security)
-* [Contributing](#contributing)
-  * [License](#license)
+* [Using Linux commands to manage file permissions](#Using-Linux-commands-to-manage-file-permissions)
+* [Applying filters to SQL queries](#Applying-filters-to-SQL-queries)
+* [Identifying vulnerabilities for a small business](#Identifying-vulnerabilities-for-a-small-business)
+* [Documenting incidents with an incident handler’s journal](#Documenting-incidents-with-an-incident-handler’s-journal)
+* [Importing and parsing a text file in a security-related scenario](#Importing-and-parsing-a-text-file-in-a-security'-'related-scenario)
+* [Creating or revising a resume](#Creating-or-revising-a-resume)
 
+**Individual projects**
+
+* [Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules](#Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules)
 
 <h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
 I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
@@ -36,7 +43,31 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 <i>To be continued</i>
 
 
-## Building A SIEM Using Microsoft Azure And Deploying Microsoft Sentinel And Crafting Custom Rules
+<h2 id="Using-Linux-commands-to-manage-file-permissions">Using Linux commands to manage file permissions</h2>
+<i>To be continued</i>
+
+
+<h2 id="Applying-filters-to-SQL-queries">Applying filters to SQL queries</h2>
+<i>To be continued</i>
+
+
+<h2 id="Identifying-vulnerabilities-for-a-small-business">Identifying vulnerabilities for a small business</h2>
+<i>To be continued</i>
+
+
+<h2 id="Documenting-incidents-with-an-incident-handler’s-journal">Documenting incidents with an incident handler’s journal</h2>
+<i>To be continued</i>
+
+
+<h2 id="Importing-and-parsing-a-text-file-in-a-security'-'related-scenario">Importing and parsing a text file in a security-related scenario</h2>
+<i>To be continued</i>
+
+
+<h2 id="Creating-or-revising-a-resume">Creating or revising a resume</h2>
+<i>To be continued</i>
+
+
+<h2 id="Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules">Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules</i>
 
 I created my own Security Operations Center (SOC) by deploying my own Security Information and Event Management (SIEM) that monitors and generates alerts for my device. I set up a Threat Intelligence (TI) feed that sends my SIEM information of a Indicator of Compromise (IoC) using Microsoft Azure. 
 
