@@ -30,6 +30,7 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 
 **Individual projects**
 * [Building a SIEM using Microsoft Azure and deploying Microsoft Sentinel and crafting custom rules](#Building-a-SIEM-using-Microsoft-Azure-and-deploying-Microsoft-Sentinel-and-crafting-custom-rules)
+
 <br>
 
 ## Contents:
