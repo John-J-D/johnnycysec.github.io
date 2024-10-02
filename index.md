@@ -12,7 +12,7 @@ I like to help companies reduce cybersecurity risks --- Independent Advisor at M
 
 # About
 
-I like to help companies reduce cybersecurity risks. With a background in IT support, I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
+I like to help companies reduce cybersecurity risks. I have a background in IT support with experience as a Microsoft products expert, technical troubleshooter, and Independent Advisor at Microsoft Community, and I’m a fast learner with strong problem-solving abilities, a focus on effective decision-making, and the ability to effectively translate technical information to non-technical audiences. I’m dedicated to applying my skills in cybersecurity to monitor, analyze, and respond to security incidents. My goal is to support organizations in maintaining strong security postures and achieving their security objectives.
 
 <br>
 
@@ -36,7 +36,7 @@ I like to help companies reduce cybersecurity risks. With a background in IT sup
 ## Contents:
 
 <h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
-As a dedicated IT professional with expertise in Microsoft products and technical troubleshooting, I am passionate about expanding my career into Cybersecurity. My strengths in problem-solving, clear communication, and protecting people and organizations align with the key objectives of Cybersecurity. With experience working as a product expert and Independent Advisor at Microsoft Community, I am committed to leveraging my skills to safeguard organizations against evolving threats while adhering to industry standards and ensuring compliance. I look forward to contributing to a safer digital landscape by applying my strengths and values to protect critical infrastructure and data.
+I like to help companies reduce cybersecurity risks. I have a background in IT support with experience as a Microsoft products expert, technical troubleshooter, and Independent Advisor at Microsoft Community. I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I also have the ability to effectively translate technical information for non-technical audiences. I’m passionate about expanding my career into cybersecurity, where my strengths in protecting people and organizations align with the core goals of the field. I’m committed to leveraging my skills to help organizations safeguard against evolving threats, maintain compliance, and adhere to industry standards. I’m excited to contribute to a safer digital landscape by monitoring, analyzing, and responding to security incidents, ultimately supporting organizations in maintaining strong security postures and achieving their cybersecurity objectives.
 
 
 <h2 id="Conducting-a-security-audit">Conducting a security audit</h2>
