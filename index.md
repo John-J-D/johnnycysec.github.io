@@ -40,8 +40,97 @@ I like to help companies reduce cybersecurity risks. I have a background in IT s
 
 
 <h2 id="Conducting-a-security-audit">Conducting a security audit</h2>
-<i>To be continued</i>
+# Botium Toys Security Audit Report
 
+### Scope and Goals of the Audit
+
+**Scope:**  
+The audit covers the entire security program at Botium Toys, including employee equipment and devices, the internal network, and systems.
+
+**Goals:**  
+- Assess existing assets.
+- Complete the controls and compliance checklist.
+- Identify controls and compliance best practices to improve Botium Toys' security posture.
+
+### Current Assets
+
+- On-premises equipment for in-office business needs
+- Employee equipment: desktops, laptops, smartphones, remote workstations, etc.
+- Storefront products available for retail sale (on site and online)
+- Systems: accounting, telecommunication, database, security, e-commerce, inventory management
+- Internet access, internal network, data retention and storage
+- Legacy systems requiring manual monitoring
+
+### Risk Assessment
+
+**Risk Score:** 8/10 (High)  
+- Lack of proper controls and compliance
+- Potential fines and data loss risks due to non-compliance with U.S. and international regulations
+
+**Key Risk Points:**
+- Inadequate asset management.
+- Employees have access to sensitive internal data.
+- No encryption for customer credit card data.
+- Lack of disaster recovery plans and backups.
+- No intrusion detection system (IDS).
+
+### Controls Assessment Checklist
+
+| Control | Yes/No |
+| --- | --- |
+| Least Privilege | No |
+| Disaster recovery plans | No |
+| Password policies | Yes (needs improvement) |
+| Separation of duties | No |
+| Firewall | Yes |
+| Intrusion detection system (IDS) | No |
+| Backups | No |
+| Antivirus software | Yes |
+| Manual monitoring of legacy systems | Yes |
+| Encryption | No |
+| Password management system | No |
+| Locks (office, storefront, warehouse) | Yes |
+| CCTV Surveillance | Yes |
+| Fire detection/prevention | Yes |
+
+### Compliance Checklist
+
+### PCI DSS
+
+| Best Practice | Yes/No |
+| --- | --- |
+| Authorized users access credit card info | No |
+| Credit card data processed securely | No |
+| Data encryption for transactions | No |
+| Secure password management policies | No |
+
+### GDPR
+
+| Best Practice | Yes/No |
+| --- | --- |
+| E.U. customer data secured | Yes |
+| Breach notification within 72 hours | Yes |
+| Data classified and inventoried | No |
+| Privacy policies enforced | Yes |
+
+### SOC 1, SOC 2
+
+| Best Practice | Yes/No |
+| --- | --- |
+| User access policies established | No |
+| PII data kept confidential/private | No |
+| Data integrity ensured | Yes |
+| Data available to authorized individuals | Yes |
+
+### Recommendations for the IT Manager
+
+- **Implement Least Privilege Controls**: Limit access to sensitive data.
+- **Create Disaster Recovery Plans and Regular Backups**: Ensure business continuity.
+- **Encrypt Sensitive Data**: Secure credit card information and other sensitive data.
+- **Update Password Policies**: Use stronger password policies and a centralized password management system.
+- **Install Intrusion Detection System (IDS)**: Detect potential threats in real-time.
+
+<br>
 
 <h2 id="Analyzing-network-structure-and-security">Analyzing network structure and security</h2>
 <i>To be continued</i>
