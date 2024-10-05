@@ -38,6 +38,7 @@ I like to help companies reduce cybersecurity risks. I have a background in IT s
 <h2 id="Drafting-a-professional-statement">Drafting a professional statement</h2>
 I like to help companies reduce cybersecurity risks. I have a background in IT support with experience as a Microsoft products expert, technical troubleshooter, and Independent Advisor at Microsoft Community. I’m a fast learner with strong problem-solving abilities and a focus on effective decision-making. I also have the ability to effectively translate technical information for non-technical audiences. I’m passionate about expanding my career into cybersecurity, where my strengths in protecting people and organizations align with the core goals of the field. I’m committed to leveraging my skills to help organizations safeguard against evolving threats, maintain compliance, and adhere to industry standards. I’m excited to contribute to a safer digital landscape by monitoring, analyzing, and responding to security incidents, ultimately supporting organizations in maintaining strong security postures and achieving their cybersecurity objectives.
 
+<br>
 
 <h2 id="Conducting-a-security-audit">Conducting a security audit</h2>
 ### Botium Toys Security Audit Report
@@ -45,9 +46,6 @@ I like to help companies reduce cybersecurity risks. I have a background in IT s
 [Download the full Security Audit Report (.docx)](reports/Cf51n9nbSD68ZTB5tTf3sA_a7545121c27b41a2b32db66f1cde7bf1_Botium-Toys-Scope-goals-and-risk-assessment-report.docx)   
 [Download Control Categories (.docx)](reports/UlCuw8LhSSqoHh2mqEAU0g_a1ed3f7f746c4071ae68b52dd07e4df1_Control-categories.docx)  
 [Download Controls and Compliance Checklist (.docx)](reports/sE_0LUF0RqCuA0FAF0KCPA_ef185c6c047247f882a8658018018df1_Controls-and-compliance-checklist.docx)
-
-
-...
 
 
 ### Scope and Goals of the Audit
