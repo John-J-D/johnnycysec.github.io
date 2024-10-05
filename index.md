@@ -40,7 +40,10 @@ I like to help companies reduce cybersecurity risks. I have a background in IT s
 
 
 <h2 id="Conducting-a-security-audit">Conducting a security audit</h2>
-# Botium Toys Security Audit Report
+### Botium Toys Security Audit Report
+
+[Download the full Security Audit Report (.docx)](Cf51n9nbSD68ZTB5tTf3sA_a7545121c27b41a2b32db66f1cde7bf1_Botium-Toys-Scope-goals-and-risk-assessment-report.docx)
+
 
 ### Scope and Goals of the Audit
 
